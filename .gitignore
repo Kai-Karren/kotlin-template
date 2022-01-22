@@ -1,3 +1,7 @@
 build/
+bin/
+*.json
 .gradle
 .idea
+.gitpod.yml
+
