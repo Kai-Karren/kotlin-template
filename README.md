@@ -1,3 +1,3 @@
 # Kotlin Template
 
-Template for a Kotlin 1.7.20 Gradle (7.5.1) project.
+Template for a Kotlin 2.2.20 project using Gradle (9.2.0).

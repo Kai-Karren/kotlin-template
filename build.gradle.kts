@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.7.20"
+    kotlin("jvm") version "2.2.20"
 }
 
 group = "io.template"
@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    "implementation"("org.jetbrains.kotlin:kotlin-stdlib:1.7.20")
+    "implementation"("org.jetbrains.kotlin:kotlin-stdlib:2.2.20")
 }
 
 tasks.withType<Jar> {
